@@ -1,0 +1,7 @@
+pip == 22.1.2
+pandas
+numpy
+requests
+google-cloud-bigquery
+zhon
+jieba
